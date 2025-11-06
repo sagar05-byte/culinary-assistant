@@ -1,0 +1,5 @@
+{
+  "name": " Culinary Assistant",
+  "description": "An intelligent cooking assistant that suggests recipes by analyzing a photo of your fridge's contents. Features include dietary filters, step-by-step cooking instructions with read-aloud functionality, and a dynamic shopping list.",
+  "requestFramePermissions": []
+}
